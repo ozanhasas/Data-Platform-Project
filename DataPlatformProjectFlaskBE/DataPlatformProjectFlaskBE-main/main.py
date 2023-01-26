@@ -5,10 +5,8 @@ import pandas as pd
 from bson.objectid import ObjectId
 import json
 from flask_cors import CORS
-<<<<<<< HEAD
 import csv
-=======
->>>>>>> main
+
 
 app = Flask(__name__)
 CORS(app)
